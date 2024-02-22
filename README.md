@@ -10,7 +10,7 @@
  1. ReactJs
  2. Vite
  3. Tailwindcss
- 4. 
+
  # Screenshot
  <img width="959" alt="Screenshot 2024-01-29 001736" src="https://github.com/draksham/Epitomizer/assets/123640464/8e4a845e-b73e-4f74-a9db-6b359f291850">
 
